@@ -13,7 +13,6 @@ __pycache__/
 .playwright-runtime/
 test-results/
 material/
-report/
 output/
 .env
 -
